@@ -23,4 +23,4 @@ The dataset consists of 4 series of monthly data from January 1987 to December 2
 * VAR, VARX.
 
 ## Forecast result
-![image-20190312161939045](/var/folders/9v/vkxrnq9s1d7d7pqgvc1zk13m0000gn/T/abnerworks.Typora/image-20190312161939045.png)
+![image-prediction](/data/pic1.png)
